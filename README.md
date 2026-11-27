@@ -92,7 +92,7 @@ Screenshots are from the Android emulator placed at Connaught Place, New Delhi, 
 **Requirements:** Android Studio (JDK 17+), the Android SDK, and an Android 8.0+ phone or emulator.
 
 ```bash
-git clone https://github.com/Snigdha-pal205/ekta.git
+git clone https://github.com/Roky777/ekta.git
 cd ekta
 ./gradlew :app:assembleDebug
 adb install -r app/build/outputs/apk/debug/app-debug.apk
